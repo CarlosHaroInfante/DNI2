@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\bin\Debug\net7.0\EjercicioDNI.exe
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\bin\Debug\net7.0\EjercicioDNI.deps.json
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\bin\Debug\net7.0\EjercicioDNI.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\bin\Debug\net7.0\EjercicioDNI.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\bin\Debug\net7.0\EjercicioDNI.pdb
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\refint\EjercicioDNI.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.pdb
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\EjercicioDNI.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioDNI\obj\Debug\net7.0\ref\EjercicioDNI.dll
